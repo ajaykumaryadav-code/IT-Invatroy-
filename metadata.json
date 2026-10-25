@@ -1,0 +1,6 @@
+{
+  "name": "IT Inventory",
+  "description": "Multi-Location IT Inventory Management System for hardware, network equipment, software licenses, barcode scanning, department tracking, and multi-office synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

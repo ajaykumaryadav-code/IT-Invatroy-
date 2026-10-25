@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Server Unit 1 -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.5"
+        android:pathData="M32,32 h44 v10 h-44 z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M36,36 h8 v2 h-8 z" />
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M66,37 a1,1 0 1,0 2,0 a1,1 0 1,0 -2,0" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M70,37 a1,1 0 1,0 2,0 a1,1 0 1,0 -2,0" />
+
+    <!-- Server Unit 2 -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.5"
+        android:pathData="M32,46 h44 v10 h-44 z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M36,50 h8 v2 h-8 z" />
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M66,51 a1,1 0 1,0 2,0 a1,1 0 1,0 -2,0" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M70,51 a1,1 0 1,0 2,0 a1,1 0 1,0 -2,0" />
+
+    <!-- Barcode and Scan Beam Area -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M35,62 h3 v14 h-3 z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M40,62 h2 v14 h-2 z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M44,62 h4 v14 h-4 z" />
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M50,62 h2 v14 h-2 z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,62 h5 v14 h-5 z" />
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M61,62 h2 v14 h-2 z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M65,62 h4 v14 h-4 z" />
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M71,62 h2 v14 h-2 z" />
+
+    <!-- Red Laser Scan line across barcode -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#EF4444"
+        android:strokeWidth="1.8"
+        android:pathData="M30,69 L78,69" />
+</vector>
